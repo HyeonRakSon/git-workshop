@@ -1,6 +1,4 @@
 # git-workshop
-Used GitHub
+GitHub Project Subject : Used GitHub
 
-Hello GitHub
-
-Edit Local
+ - Hello GitHub
